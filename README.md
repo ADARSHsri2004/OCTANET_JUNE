@@ -9,6 +9,7 @@ Welcome to my GitHub repository showcasing my journey and tasks completed during
 ## Repository Contents
 
 - **Task 1**: Build a basic landing page using HTML and CSS.
+- **Task 2**: Create a functional and user-friendly To-Do List web page.
 
 Each task folder contains the source code, documentation, and any additional resources related to the specific assignment.
 
